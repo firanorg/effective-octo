@@ -20,7 +20,7 @@ __metadata:
   dependencies:
     "@firanorg/bookish-broccoli": "npm:^1.0.1"
     "@firanorg/improved-succotash": "npm:^2.0.0"
-    "@firanorg/scaling-goggles": "npm:^1.1.4"
+    "@firanorg/scaling-goggles": "npm:^1.1.5"
   languageName: unknown
   linkType: soft
 
@@ -74,5 +74,14 @@ __metadata:
   dependencies:
     "@firanorg/scaling-goggles": "npm:^1.1.3"
   checksum: 10c0/09c4fe1fa2225c60b70acb31e6cc6a332de47ecdd2779d6ea9772ec71a82cf9e462e22acf88b207b4ac3895a3f72c32fdbe84299aca7d8840eddef0cf8e0d39a
+  languageName: node
+  linkType: hard
+
+"@firanorg/scaling-goggles@npm:^1.1.5":
+  version: 1.1.5
+  resolution: "@firanorg/scaling-goggles@npm:1.1.5"
+  dependencies:
+    "@firanorg/scaling-goggles": "npm:^1.1.4"
+  checksum: 10c0/f3eec3c706ff6e001b7c9552c98803ae0402e7417becc58281129106e9a5c1d56f878a7b155cbed286ac218e0bcf7160d4742145f0a55bbf4dda467d5a8ff6d8
   languageName: node
   linkType: hard
