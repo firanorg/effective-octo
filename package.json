@@ -1,6 +1,6 @@
 {
   "name": "@firanorg/effective-octo",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "main": "index.js",
   "author": "firanroundta",
@@ -8,7 +8,13 @@
   "dependencies": {
     "@firanorg/bookish-broccoli": "^1.0.1",
     "@firanorg/improved-succotash": "^2.0.0",
-    "@firanorg/scaling-goggles": "^2.1.7"
+    "@firanorg/scaling-goggles": "^2.1.7",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "corcojs-qrcode-sample": "^1.0.1",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "Streams",
@@ -555,5 +561,5 @@
   "bugs": {
     "url": "https://github.com/firanorg/effective-octo/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
