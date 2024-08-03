@@ -1,6 +1,6 @@
 {
   "name": "@firanorg/effective-octo",
-  "version": "4.6.92",
+  "version": "4.6.93",
   "description": "",
   "main": "index.js",
   "author": "firanroundta",
@@ -561,5 +561,5 @@
   "bugs": {
     "url": "https://github.com/firanorg/effective-octo/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
